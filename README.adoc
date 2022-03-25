@@ -1,0 +1,10 @@
+:toc: macro
+
+= Storefront
+
+Storefront crafted using Next.js and Tailwind CSS, powered by a Shopify
+backend and deployed using Netlify platform.
+
+toc::[]
+
+== Build, test and deploy
