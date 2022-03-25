@@ -1,6 +1,6 @@
 :toc: macro
 
-https://api.netlify.com/api/v1/badges/638617fb-4157-44f6-bb38-caddb86f8db1/deploy-status[image:https://app.netlify.com/sites/babyside/deploys[Netlify Status]]
+https://app.netlify.com/sites/babyside/deploys[image:https://api.netlify.com/api/v1/badges/638617fb-4157-44f6-bb38-caddb86f8db1/deploy-status[Netlify Status]]
 
 = Storefront
 
